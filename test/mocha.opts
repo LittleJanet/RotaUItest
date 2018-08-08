@@ -1,0 +1,6 @@
+--ui tdd
+--require intelli-espower-loader
+--file ./test/initialize
+--recursive
+--timeout 300000
+test/scheduletest.js
